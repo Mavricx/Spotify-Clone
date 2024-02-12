@@ -1,0 +1,1 @@
+This is a simple song player made from the inspiration of Spotify or made on  theme of Spotify it consists of six songs which are locally downloaded moreover I would like to thank code with Harry with whose help I have made this application it uses html css and javascript basic.
