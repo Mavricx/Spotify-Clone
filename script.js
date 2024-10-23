@@ -44,7 +44,12 @@ let songs = [
     filePath: "songs/Valam.mp3",
     coverPath: "myCovers/6.jpg",
     songNumber: 5,
-  },
+  },{
+    songName: "Ruaan",
+    filePath: "songs/Ruaan.mp3",
+    coverPath: "myCovers/7.jpg",
+    songNumber: 6,
+  }
 ];
 
 songItems.forEach((element, i) => {
