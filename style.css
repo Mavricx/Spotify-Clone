@@ -71,6 +71,23 @@ nav ul li {
   padding: 0 5px;
 }
 
+.icons i {
+  transition: transform 0.3s ease;
+}
+
+#previous:hover {
+  transform: scale(1.2); /* Increases size by 20% */
+}
+
+#masterPlay:hover {
+  transform: scale(1.2); /* Increases size by 20% */
+}
+
+#next:hover {
+  transform: scale(1.2); /* Increases size by 20% */
+}
+
+
 #myProgressbar {
   width: 80vw;
   cursor: pointer;
