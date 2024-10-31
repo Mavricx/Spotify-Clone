@@ -68,6 +68,12 @@ let songs = [
     coverPath: "myCovers/10.png",
     songNumber: 8,
   }
+  , {
+    songName: "Kun Faya Kun",
+    filePath: "songs/Kun Faya Kun.mp3",
+    coverPath: "myCovers/11.png",
+    songNumber: 8,
+  }
 ];
 
 songItems.forEach((element, i) => {
