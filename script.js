@@ -53,8 +53,14 @@ let songs = [
   , {
     songName: "Die With a Smile",
     filePath: "songs/Die_with_a_smile.mp3",
-    coverPath: "myCovers//8.png",
+    coverPath: "myCovers/8.png",
     songNumber: 7,
+  }
+  , {
+    songName: "Zaroor",
+    filePath: "songs/Zaroor.mp3",
+    coverPath: "myCovers/9.png",
+    songNumber: 8,
   }
 ];
 
