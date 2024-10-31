@@ -44,11 +44,17 @@ let songs = [
     filePath: "songs/Valam.mp3",
     coverPath: "myCovers/6.jpg",
     songNumber: 5,
-  },{
+  }, {
     songName: "Ruaan",
     filePath: "songs/Ruaan.mp3",
     coverPath: "myCovers/7.jpg",
     songNumber: 6,
+  }
+  , {
+    songName: "Die With a Smile",
+    filePath: "songs/Die_with_a_smile.mp3",
+    coverPath: "myCovers//8.png",
+    songNumber: 7,
   }
 ];
 
