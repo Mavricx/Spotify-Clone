@@ -66,13 +66,20 @@ let songs = [
     songName: "Saiyyan",
     filePath: "songs/Saiyyan.mp3",
     coverPath: "myCovers/10.png",
-    songNumber: 8,
+    songNumber: 9,
   }
   , {
     songName: "Kun Faya Kun",
     filePath: "songs/Kun Faya Kun.mp3",
     coverPath: "myCovers/11.png",
-    songNumber: 8,
+    songNumber: 10,
+  }
+  ,
+  {
+    songName: "Bhagg dk",
+    filePath: "songs/Bhaag.mp3",
+    coverPath: "myCovers/12.jpg",
+    songNumber: 11,
   }
 ];
 
